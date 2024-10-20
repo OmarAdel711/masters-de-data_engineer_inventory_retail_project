@@ -1,5 +1,3 @@
-# masters-de-data_engineer_inventory_retail_project
-
 # End-to-End Retail Inventory Management and Demand Forecasting Solution Using Azure Data Pipelines and Machine Learning
 
 ## Project Overview
