@@ -1,6 +1,5 @@
 # End-to-End Retail Inventory Management and Demand Forecasting Solution Using Azure Data Pipelines and Machine Learning
 
-# Retail Inventory Management and Demand Forecasting
 
 ## Project Overview
 This project addresses a business need by building a comprehensive data pipeline on Azure, focusing on retail inventory management and demand forecasting. The objective was to extract customer and sales data from an on-premises SQL database, transform it in the cloud, and use machine learning to forecast inventory demand. The pipeline's insights enabled stakeholders to track inventory and anticipate demand changes, ensuring efficient stock management. The project concluded with the development of a forecasting model in Azure Databricks, integrated with MLflow for model management. Visualization of the forecasting results was provided through the Databricks notebook.
